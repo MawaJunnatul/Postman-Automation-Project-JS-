@@ -1,0 +1,54 @@
+{
+  "studentsDetails": [
+    {
+      "first_name": "{{(junnatul)}}",
+      "middle_name": "Grace",
+      "last_name": "{{Mawa}}",
+      "date_of_birth": "{{22-02-97}}",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "first_name": "James",
+      "middle_name": "Changed",
+      "last_name": "Garcia",
+      "date_of_birth": "22 Oct 1999"
+    }
+  ],
+  "addresses": [
+    {
+      "Permanent_Address": {
+        "House_Number": "12A",
+        "City": "New York",
+        "State": "NY",
+        "Country": "USA",
+        "PhoneNumber": [
+          {
+            "Std_Code": "+1",
+            "Home": "5555694",
+            "Mobile": "5554291"
+          }
+        ]
+      },
+      "stId": 2,
+      "id": 1
+    },
+    {
+      "Permanent_Address": {
+        "House_Number": "45B",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Country": "USA",
+        "PhoneNumber": [
+          {
+            "Std_Code": "+1",
+            "Home": "5555734",
+            "Mobile": "5555200"
+          }
+        ]
+      },
+      "stId": 3,
+      "id": 2
+    }
+  ]
+}
